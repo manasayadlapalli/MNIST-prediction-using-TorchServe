@@ -1,0 +1,618 @@
+2022-11-20T12:53:57,793 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977637
+2022-11-20T12:53:57,851 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977637
+2022-11-20T12:53:57,889 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977637
+2022-11-20T12:53:57,922 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977637
+2022-11-20T12:53:57,947 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977637
+2022-11-20T12:53:57,974 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977637
+2022-11-20T12:54:27,680 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977667
+2022-11-20T12:54:27,709 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977667
+2022-11-20T12:54:27,730 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977667
+2022-11-20T12:54:27,750 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977667
+2022-11-20T12:54:27,770 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977667
+2022-11-20T12:54:27,788 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977667
+2022-11-20T12:54:32,430 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977672
+2022-11-20T12:54:32,476 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977672
+2022-11-20T12:54:32,520 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977672
+2022-11-20T12:54:32,554 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977672
+2022-11-20T12:54:32,576 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977672
+2022-11-20T12:54:32,597 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977672
+2022-11-20T12:56:29,342 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977789
+2022-11-20T12:56:29,364 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977789
+2022-11-20T12:56:29,387 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977789
+2022-11-20T12:56:29,411 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977789
+2022-11-20T12:56:29,429 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977789
+2022-11-20T12:56:29,447 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977789
+2022-11-20T12:56:51,830 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977811
+2022-11-20T12:56:51,850 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977811
+2022-11-20T12:56:51,871 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977811
+2022-11-20T12:56:51,890 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977811
+2022-11-20T12:56:51,910 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977811
+2022-11-20T12:56:51,932 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977811
+2022-11-20T12:57:06,545 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977826
+2022-11-20T12:57:06,569 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977826
+2022-11-20T12:57:06,592 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977826
+2022-11-20T12:57:06,614 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977826
+2022-11-20T12:57:06,634 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977826
+2022-11-20T12:57:06,654 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977826
+2022-11-20T12:58:33,968 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977913
+2022-11-20T12:58:33,991 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977913
+2022-11-20T12:58:34,021 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977914
+2022-11-20T12:58:34,045 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977914
+2022-11-20T12:58:34,071 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977914
+2022-11-20T12:58:34,095 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977914
+2022-11-20T12:58:40,191 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977920
+2022-11-20T12:58:40,218 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977920
+2022-11-20T12:58:40,240 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977920
+2022-11-20T12:58:40,264 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977920
+2022-11-20T12:58:40,286 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977920
+2022-11-20T12:58:40,306 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977920
+2022-11-20T12:59:02,644 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977942
+2022-11-20T12:59:02,668 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977942
+2022-11-20T12:59:02,693 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977942
+2022-11-20T12:59:02,722 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977942
+2022-11-20T12:59:02,749 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977942
+2022-11-20T12:59:02,774 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977942
+2022-11-20T12:59:07,971 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977947
+2022-11-20T12:59:07,997 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977947
+2022-11-20T12:59:08,027 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977948
+2022-11-20T12:59:08,051 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977948
+2022-11-20T12:59:08,072 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977948
+2022-11-20T12:59:08,091 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977948
+2022-11-20T12:59:48,953 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977988
+2022-11-20T12:59:48,980 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977988
+2022-11-20T12:59:49,013 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977989
+2022-11-20T12:59:49,039 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977989
+2022-11-20T12:59:49,065 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977989
+2022-11-20T12:59:49,087 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668977989
+2022-11-20T13:00:09,996 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978009
+2022-11-20T13:00:10,020 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978010
+2022-11-20T13:00:10,046 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978010
+2022-11-20T13:00:10,071 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978010
+2022-11-20T13:00:10,096 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978010
+2022-11-20T13:00:10,118 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978010
+2022-11-20T13:00:15,199 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978015
+2022-11-20T13:00:15,227 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978015
+2022-11-20T13:00:15,257 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978015
+2022-11-20T13:00:15,282 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978015
+2022-11-20T13:00:15,303 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978015
+2022-11-20T13:00:15,324 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978015
+2022-11-20T13:02:09,817 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978129
+2022-11-20T13:02:09,853 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978129
+2022-11-20T13:02:09,878 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978129
+2022-11-20T13:02:09,901 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978129
+2022-11-20T13:02:09,922 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978129
+2022-11-20T13:02:09,946 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978129
+2022-11-20T13:02:16,122 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978136
+2022-11-20T13:02:16,147 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978136
+2022-11-20T13:02:16,172 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978136
+2022-11-20T13:02:16,197 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978136
+2022-11-20T13:02:16,220 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978136
+2022-11-20T13:02:16,244 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978136
+2022-11-20T13:02:30,791 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978150
+2022-11-20T13:02:30,816 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978150
+2022-11-20T13:02:30,837 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978150
+2022-11-20T13:02:30,862 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978150
+2022-11-20T13:02:30,885 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978150
+2022-11-20T13:02:30,907 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978150
+2022-11-20T13:04:28,366 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978268
+2022-11-20T13:04:28,399 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978268
+2022-11-20T13:04:28,430 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978268
+2022-11-20T13:04:28,467 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978268
+2022-11-20T13:04:28,488 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978268
+2022-11-20T13:04:28,513 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978268
+2022-11-20T13:05:16,057 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978316
+2022-11-20T13:05:16,085 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978316
+2022-11-20T13:05:16,111 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978316
+2022-11-20T13:05:16,135 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978316
+2022-11-20T13:05:16,157 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978316
+2022-11-20T13:05:16,181 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978316
+2022-11-20T13:05:23,796 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978323
+2022-11-20T13:05:23,837 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978323
+2022-11-20T13:05:23,875 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978323
+2022-11-20T13:05:23,915 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978323
+2022-11-20T13:05:23,941 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978323
+2022-11-20T13:05:23,966 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978323
+2022-11-20T13:05:29,689 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978329
+2022-11-20T13:05:29,718 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978329
+2022-11-20T13:05:29,746 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978329
+2022-11-20T13:05:29,773 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978329
+2022-11-20T13:05:29,801 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978329
+2022-11-20T13:05:29,824 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978329
+2022-11-20T13:06:19,921 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978379
+2022-11-20T13:06:19,956 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978379
+2022-11-20T13:06:19,993 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978379
+2022-11-20T13:06:23,554 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978383
+2022-11-20T13:06:23,588 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978383
+2022-11-20T13:06:23,623 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978383
+2022-11-20T13:06:33,043 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978393
+2022-11-20T13:06:33,088 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978393
+2022-11-20T13:06:33,134 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978393
+2022-11-20T13:06:36,879 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978396
+2022-11-20T13:06:36,918 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978396
+2022-11-20T13:06:36,953 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978396
+2022-11-20T13:07:14,835 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978434
+2022-11-20T13:07:14,884 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978434
+2022-11-20T13:07:14,938 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978434
+2022-11-20T13:07:14,972 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978434
+2022-11-20T13:07:14,994 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978434
+2022-11-20T13:07:15,020 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978435
+2022-11-20T13:07:23,660 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978443
+2022-11-20T13:07:23,682 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978443
+2022-11-20T13:07:23,706 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978443
+2022-11-20T13:07:23,731 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978443
+2022-11-20T13:07:23,761 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978443
+2022-11-20T13:07:23,785 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978443
+2022-11-20T13:11:10,900 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978670
+2022-11-20T13:11:10,933 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978670
+2022-11-20T13:11:10,972 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978670
+2022-11-20T13:11:11,014 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978671
+2022-11-20T13:11:11,036 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978671
+2022-11-20T13:11:11,058 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978671
+2022-11-20T13:11:18,365 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978678
+2022-11-20T13:11:18,432 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978678
+2022-11-20T13:11:18,474 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978678
+2022-11-20T13:11:18,503 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978678
+2022-11-20T13:11:18,529 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978678
+2022-11-20T13:11:18,551 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978678
+2022-11-20T13:12:09,217 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978729
+2022-11-20T13:12:09,256 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978729
+2022-11-20T13:12:09,285 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978729
+2022-11-20T13:12:09,312 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978729
+2022-11-20T13:12:09,338 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978729
+2022-11-20T13:12:09,360 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978729
+2022-11-20T13:12:14,404 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978734
+2022-11-20T13:12:14,426 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978734
+2022-11-20T13:12:14,445 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978734
+2022-11-20T13:12:14,463 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978734
+2022-11-20T13:12:14,482 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978734
+2022-11-20T13:12:14,503 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978734
+2022-11-20T13:13:45,439 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978825
+2022-11-20T13:13:45,485 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978825
+2022-11-20T13:13:45,522 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978825
+2022-11-20T13:13:45,554 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978825
+2022-11-20T13:13:45,579 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978825
+2022-11-20T13:13:45,602 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978825
+2022-11-20T13:14:40,136 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978880
+2022-11-20T13:14:40,182 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978880
+2022-11-20T13:14:40,217 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978880
+2022-11-20T13:14:40,239 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978880
+2022-11-20T13:14:40,258 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978880
+2022-11-20T13:14:40,276 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978880
+2022-11-20T13:16:25,747 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978985
+2022-11-20T13:16:25,798 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978985
+2022-11-20T13:16:25,818 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978985
+2022-11-20T13:16:25,837 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978985
+2022-11-20T13:16:25,863 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978985
+2022-11-20T13:16:25,885 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668978985
+2022-11-20T13:18:08,870 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979088
+2022-11-20T13:18:08,910 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979088
+2022-11-20T13:18:08,936 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979088
+2022-11-20T13:18:08,967 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979088
+2022-11-20T13:18:08,988 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979088
+2022-11-20T13:18:09,021 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979089
+2022-11-20T13:18:49,040 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979129
+2022-11-20T13:18:49,081 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979129
+2022-11-20T13:18:49,109 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979129
+2022-11-20T13:18:49,135 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979129
+2022-11-20T13:18:49,163 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979129
+2022-11-20T13:18:49,185 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979129
+2022-11-20T13:19:13,251 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979153
+2022-11-20T13:19:13,276 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979153
+2022-11-20T13:19:13,301 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979153
+2022-11-20T13:19:13,332 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979153
+2022-11-20T13:19:13,363 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979153
+2022-11-20T13:19:13,386 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979153
+2022-11-20T13:19:18,036 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979158
+2022-11-20T13:19:18,068 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979158
+2022-11-20T13:19:18,096 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979158
+2022-11-20T13:19:18,118 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979158
+2022-11-20T13:19:18,148 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979158
+2022-11-20T13:19:18,171 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979158
+2022-11-20T13:19:43,889 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979183
+2022-11-20T13:19:43,918 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979183
+2022-11-20T13:19:43,944 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979183
+2022-11-20T13:19:43,970 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979183
+2022-11-20T13:19:43,999 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979183
+2022-11-20T13:19:44,027 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979184
+2022-11-20T13:19:57,485 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979197
+2022-11-20T13:19:57,522 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979197
+2022-11-20T13:19:57,553 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979197
+2022-11-20T13:19:57,580 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979197
+2022-11-20T13:19:57,602 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979197
+2022-11-20T13:19:57,624 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979197
+2022-11-20T13:20:45,304 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979245
+2022-11-20T13:20:45,346 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979245
+2022-11-20T13:20:45,369 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979245
+2022-11-20T13:20:45,390 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979245
+2022-11-20T13:20:45,412 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979245
+2022-11-20T13:20:45,433 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979245
+2022-11-20T13:21:12,510 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979272
+2022-11-20T13:21:12,536 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979272
+2022-11-20T13:21:12,563 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979272
+2022-11-20T13:21:12,587 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979272
+2022-11-20T13:21:12,621 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979272
+2022-11-20T13:21:12,644 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979272
+2022-11-20T13:21:49,432 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979309
+2022-11-20T13:21:49,452 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979309
+2022-11-20T13:21:49,484 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979309
+2022-11-20T13:21:49,504 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979309
+2022-11-20T13:21:49,542 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979309
+2022-11-20T13:21:49,566 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979309
+2022-11-20T13:22:39,545 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979359
+2022-11-20T13:22:39,566 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979359
+2022-11-20T13:22:39,597 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979359
+2022-11-20T13:22:39,618 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979359
+2022-11-20T13:22:39,646 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979359
+2022-11-20T13:22:39,672 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979359
+2022-11-20T13:23:34,734 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979414
+2022-11-20T13:23:34,761 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979414
+2022-11-20T13:23:34,787 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979414
+2022-11-20T13:23:34,814 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979414
+2022-11-20T13:23:34,837 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979414
+2022-11-20T13:23:34,865 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979414
+2022-11-20T13:24:14,731 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979454
+2022-11-20T13:24:14,776 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979454
+2022-11-20T13:24:14,801 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979454
+2022-11-20T13:24:14,829 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979454
+2022-11-20T13:24:14,851 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979454
+2022-11-20T13:24:14,879 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979454
+2022-11-20T13:24:38,622 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979478
+2022-11-20T13:24:38,652 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979478
+2022-11-20T13:24:38,680 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979478
+2022-11-20T13:24:38,701 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979478
+2022-11-20T13:24:38,728 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979478
+2022-11-20T13:24:38,748 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979478
+2022-11-20T13:24:43,398 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979483
+2022-11-20T13:24:43,419 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979483
+2022-11-20T13:24:43,445 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979483
+2022-11-20T13:24:43,466 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979483
+2022-11-20T13:24:43,488 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979483
+2022-11-20T13:24:43,514 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979483
+2022-11-20T13:24:55,857 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979495
+2022-11-20T13:24:55,886 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979495
+2022-11-20T13:24:55,916 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979495
+2022-11-20T13:24:55,949 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979495
+2022-11-20T13:24:55,975 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979495
+2022-11-20T13:24:55,998 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979495
+2022-11-20T13:25:02,446 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979502
+2022-11-20T13:25:02,467 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979502
+2022-11-20T13:25:02,499 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979502
+2022-11-20T13:25:02,537 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979502
+2022-11-20T13:25:02,561 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979502
+2022-11-20T13:25:02,583 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979502
+2022-11-20T13:25:28,695 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979528
+2022-11-20T13:25:28,717 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979528
+2022-11-20T13:25:28,746 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979528
+2022-11-20T13:25:28,769 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979528
+2022-11-20T13:25:28,796 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979528
+2022-11-20T13:25:28,825 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979528
+2022-11-20T13:28:15,237 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979695
+2022-11-20T13:28:15,278 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979695
+2022-11-20T13:28:15,304 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979695
+2022-11-20T13:28:15,335 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979695
+2022-11-20T13:28:15,361 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979695
+2022-11-20T13:28:15,384 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979695
+2022-11-20T13:29:06,618 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979746
+2022-11-20T13:29:06,650 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979746
+2022-11-20T13:29:06,683 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979746
+2022-11-20T13:29:06,713 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979746
+2022-11-20T13:29:06,738 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979746
+2022-11-20T13:29:06,761 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668979746
+2022-11-20T13:33:40,504 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980020
+2022-11-20T13:33:40,561 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980020
+2022-11-20T13:33:40,595 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980020
+2022-11-20T13:33:40,629 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980020
+2022-11-20T13:33:40,658 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980020
+2022-11-20T13:33:40,684 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980020
+2022-11-20T13:35:00,896 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980100
+2022-11-20T13:35:00,962 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980100
+2022-11-20T13:35:00,994 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980100
+2022-11-20T13:35:01,025 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980101
+2022-11-20T13:35:01,065 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980101
+2022-11-20T13:35:01,092 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980101
+2022-11-20T13:35:30,598 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980130
+2022-11-20T13:35:30,647 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980130
+2022-11-20T13:35:30,686 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980130
+2022-11-20T13:35:30,723 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980130
+2022-11-20T13:35:30,749 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980130
+2022-11-20T13:35:30,770 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980130
+2022-11-20T13:37:15,730 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980235
+2022-11-20T13:37:15,777 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980235
+2022-11-20T13:37:15,833 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980235
+2022-11-20T13:37:15,864 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980235
+2022-11-20T13:37:15,893 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980235
+2022-11-20T13:37:15,926 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980235
+2022-11-20T13:38:06,742 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980286
+2022-11-20T13:38:06,779 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980286
+2022-11-20T13:38:06,835 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980286
+2022-11-20T13:38:06,882 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980286
+2022-11-20T13:38:06,917 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980286
+2022-11-20T13:38:06,970 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980286
+2022-11-20T13:39:39,156 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980379
+2022-11-20T13:39:39,228 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980379
+2022-11-20T13:39:39,283 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980379
+2022-11-20T13:39:39,331 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980379
+2022-11-20T13:39:39,386 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980379
+2022-11-20T13:39:39,444 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980379
+2022-11-20T13:40:34,570 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980434
+2022-11-20T13:40:34,625 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980434
+2022-11-20T13:40:34,674 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980434
+2022-11-20T13:40:34,721 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980434
+2022-11-20T13:40:34,778 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980434
+2022-11-20T13:40:34,834 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980434
+2022-11-20T13:42:17,268 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980537
+2022-11-20T13:42:17,318 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980537
+2022-11-20T13:42:17,377 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980537
+2022-11-20T13:42:17,419 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980537
+2022-11-20T13:42:17,469 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980537
+2022-11-20T13:42:17,509 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980537
+2022-11-20T13:42:54,121 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980574
+2022-11-20T13:42:54,177 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980574
+2022-11-20T13:42:54,228 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980574
+2022-11-20T13:42:54,273 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980574
+2022-11-20T13:42:54,331 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980574
+2022-11-20T13:42:54,383 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980574
+2022-11-20T13:43:32,161 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980612
+2022-11-20T13:43:32,220 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980612
+2022-11-20T13:43:32,276 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980612
+2022-11-20T13:43:32,321 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980612
+2022-11-20T13:43:32,360 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980612
+2022-11-20T13:43:32,391 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980612
+2022-11-20T13:44:48,372 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980688
+2022-11-20T13:44:48,410 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980688
+2022-11-20T13:44:48,440 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980688
+2022-11-20T13:44:48,469 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980688
+2022-11-20T13:44:48,497 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980688
+2022-11-20T13:44:48,528 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980688
+2022-11-20T13:46:31,144 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980791
+2022-11-20T13:46:31,176 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980791
+2022-11-20T13:46:31,210 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980791
+2022-11-20T13:46:31,239 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980791
+2022-11-20T13:46:31,270 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980791
+2022-11-20T13:46:31,295 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668980791
+2022-11-20T13:52:37,039 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981157
+2022-11-20T13:52:37,075 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981157
+2022-11-20T13:52:37,103 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981157
+2022-11-20T13:52:37,125 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981157
+2022-11-20T13:52:37,153 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981157
+2022-11-20T13:52:37,176 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981157
+2022-11-20T13:53:38,311 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981218
+2022-11-20T13:53:38,335 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981218
+2022-11-20T13:53:38,357 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981218
+2022-11-20T13:53:38,379 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981218
+2022-11-20T13:53:38,405 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981218
+2022-11-20T13:53:38,427 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668981218
+2022-11-20T15:30:00,758 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668987000
+2022-11-20T15:30:00,792 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668987000
+2022-11-20T15:30:00,830 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668987000
+2022-11-20T15:30:00,856 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668987000
+2022-11-20T15:30:00,880 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668987000
+2022-11-20T15:30:00,902 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668987000
+2022-11-20T15:48:20,848 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,849 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,851 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,851 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,851 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,852 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - [PID]31670
+2022-11-20T15:48:20,852 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,852 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,852 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - [PID]31665
+2022-11-20T15:48:20,852 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,852 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,852 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,851 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,852 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,853 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,853 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,853 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - [PID]31672
+2022-11-20T15:48:20,853 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,854 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,854 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,852 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - [PID]31674
+2022-11-20T15:48:20,854 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,854 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - [PID]31668
+2022-11-20T15:48:20,854 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - [PID]31673
+2022-11-20T15:48:20,854 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,854 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,854 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,855 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,855 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,855 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,863 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,865 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9004).
+2022-11-20T15:48:20,865 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9008).
+2022-11-20T15:48:20,865 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9009).
+2022-11-20T15:48:20,865 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9002).
+2022-11-20T15:48:20,865 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2022-11-20T15:48:20,866 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,866 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - [PID]31666
+2022-11-20T15:48:20,865 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9007).
+2022-11-20T15:48:20,866 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,866 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,866 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,868 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,868 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9003).
+2022-11-20T15:48:20,868 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,869 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - [PID]31669
+2022-11-20T15:48:20,869 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,869 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,870 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9005).
+2022-11-20T15:48:20,870 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,870 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - [PID]31671
+2022-11-20T15:48:20,871 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,871 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,871 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9006).
+2022-11-20T15:48:20,874 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:48:20,876 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:48:20,876 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - [PID]31667
+2022-11-20T15:48:20,876 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:48:20,876 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:48:20,879 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2022-11-20T15:48:20,942 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,950 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,950 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,950 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,951 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,952 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,955 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,956 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,956 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:48:20,956 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,331 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,334 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,335 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - [PID]31971
+2022-11-20T15:54:42,336 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,336 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,348 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9002).
+2022-11-20T15:54:42,391 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,484 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,486 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,487 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - [PID]31974
+2022-11-20T15:54:42,487 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,488 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,658 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9009).
+2022-11-20T15:54:42,731 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,830 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,832 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,833 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - [PID]31975
+2022-11-20T15:54:42,833 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,833 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,853 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2022-11-20T15:54:42,853 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,897 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,901 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,901 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - [PID]31976
+2022-11-20T15:54:42,901 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,901 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,904 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9003).
+2022-11-20T15:54:42,905 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,907 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,907 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - [PID]31969
+2022-11-20T15:54:42,908 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,909 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,911 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,914 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9005).
+2022-11-20T15:54:42,923 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,926 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,926 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - [PID]31973
+2022-11-20T15:54:42,927 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,927 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,929 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,931 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9006).
+2022-11-20T15:54:42,934 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,935 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,936 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,936 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - [PID]31972
+2022-11-20T15:54:42,936 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,937 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,954 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,958 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,958 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - [PID]31977
+2022-11-20T15:54:42,958 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,958 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,959 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9004).
+2022-11-20T15:54:42,959 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,964 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:42,965 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9008).
+2022-11-20T15:54:42,966 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:42,967 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:42,969 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - [PID]31978
+2022-11-20T15:54:42,971 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:42,972 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:42,977 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9007).
+2022-11-20T15:54:42,983 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:54:43,013 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:54:43,015 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:54:43,016 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - [PID]31970
+2022-11-20T15:54:43,016 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:54:43,016 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:54:43,017 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2022-11-20T15:54:43,021 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,204 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,206 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,206 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - [PID]32153
+2022-11-20T15:57:06,207 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,207 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,215 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,218 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,218 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - [PID]32152
+2022-11-20T15:57:06,218 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,218 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,218 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,220 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,222 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - [PID]32148
+2022-11-20T15:57:06,222 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,223 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,223 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9004).
+2022-11-20T15:57:06,224 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9009).
+2022-11-20T15:57:06,225 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9003).
+2022-11-20T15:57:06,235 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,237 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,238 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - [PID]32150
+2022-11-20T15:57:06,239 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,239 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,239 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,241 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,242 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,242 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - [PID]32145
+2022-11-20T15:57:06,242 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,242 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,242 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,242 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,246 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9005).
+2022-11-20T15:57:06,249 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2022-11-20T15:57:06,251 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,252 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,254 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,254 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,254 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - [PID]32149
+2022-11-20T15:57:06,254 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,254 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,256 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,258 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,258 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - [PID]32151
+2022-11-20T15:57:06,258 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,258 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,264 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9006).
+2022-11-20T15:57:06,264 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9007).
+2022-11-20T15:57:06,264 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,265 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,268 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,268 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - [PID]32146
+2022-11-20T15:57:06,269 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,269 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,271 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2022-11-20T15:57:06,271 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,272 [INFO ] W-9007-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,275 [INFO ] W-9001-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,278 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,279 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - [PID]32147
+2022-11-20T15:57:06,279 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,279 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,283 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9002).
+2022-11-20T15:57:06,288 [INFO ] W-9002-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:06,290 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Listening on port: None
+2022-11-20T15:57:06,293 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Successfully loaded /opt/homebrew/anaconda3/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2022-11-20T15:57:06,293 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - [PID]32154
+2022-11-20T15:57:06,293 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Torch worker started.
+2022-11-20T15:57:06,293 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Python runtime: 3.9.13
+2022-11-20T15:57:06,300 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9008).
+2022-11-20T15:57:06,310 [INFO ] W-9008-mnist_1.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2022-11-20T15:57:37,400 [INFO ] W-9009-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668988657
+2022-11-20T15:57:37,424 [WARN ] W-9009-mnist_1.0-stderr MODEL_LOG - /opt/homebrew/anaconda3/lib/python3.9/site-packages/torch/nn/functional.py:1331: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2022-11-20T15:57:37,424 [WARN ] W-9009-mnist_1.0-stderr MODEL_LOG -   warnings.warn(warn_msg)
+2022-11-20T15:57:37,445 [INFO ] W-9004-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668988657
+2022-11-20T15:57:37,449 [WARN ] W-9004-mnist_1.0-stderr MODEL_LOG - /opt/homebrew/anaconda3/lib/python3.9/site-packages/torch/nn/functional.py:1331: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2022-11-20T15:57:37,450 [WARN ] W-9004-mnist_1.0-stderr MODEL_LOG -   warnings.warn(warn_msg)
+2022-11-20T15:57:37,468 [INFO ] W-9003-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668988657
+2022-11-20T15:57:37,472 [WARN ] W-9003-mnist_1.0-stderr MODEL_LOG - /opt/homebrew/anaconda3/lib/python3.9/site-packages/torch/nn/functional.py:1331: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2022-11-20T15:57:37,472 [WARN ] W-9003-mnist_1.0-stderr MODEL_LOG -   warnings.warn(warn_msg)
+2022-11-20T15:57:37,491 [INFO ] W-9005-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668988657
+2022-11-20T15:57:37,494 [WARN ] W-9005-mnist_1.0-stderr MODEL_LOG - /opt/homebrew/anaconda3/lib/python3.9/site-packages/torch/nn/functional.py:1331: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2022-11-20T15:57:37,495 [WARN ] W-9005-mnist_1.0-stderr MODEL_LOG -   warnings.warn(warn_msg)
+2022-11-20T15:57:37,513 [INFO ] W-9000-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668988657
+2022-11-20T15:57:37,518 [WARN ] W-9000-mnist_1.0-stderr MODEL_LOG - /opt/homebrew/anaconda3/lib/python3.9/site-packages/torch/nn/functional.py:1331: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2022-11-20T15:57:37,518 [WARN ] W-9000-mnist_1.0-stderr MODEL_LOG -   warnings.warn(warn_msg)
+2022-11-20T15:57:37,535 [INFO ] W-9006-mnist_1.0-stdout MODEL_LOG - Backend received inference at: 1668988657
+2022-11-20T15:57:37,539 [WARN ] W-9006-mnist_1.0-stderr MODEL_LOG - /opt/homebrew/anaconda3/lib/python3.9/site-packages/torch/nn/functional.py:1331: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2022-11-20T15:57:37,540 [WARN ] W-9006-mnist_1.0-stderr MODEL_LOG -   warnings.warn(warn_msg)

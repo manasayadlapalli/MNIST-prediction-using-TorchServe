@@ -1,45 +1,68 @@
-//templates/index.html
-<html>
-<head>
-<title>Python Flask Upload and display image</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />        
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-</head>
-<body>
-<p><h1 align="center">Python Flask Upload and display image</h1></p>
-<div class="container">
-<div class="row">
-    <h2>Select a file to upload</h2>
+<!doctype html>
+<style>
+	span {
+	  color: green;
+	  font-size: 50px;
+	  text-align:right;
+	  margin-left: 3%;
+	  margin-bottom: 20%;
+	  text-transform: uppercase;
+	  font-family: Arial, Helvetica, sans-serif;
+	} 
+	h1,h2,form {
+		text-align: center;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	table {
+		margin-left: 25%;
+		width: 50%;
+		border-collapse:collapse;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	td,th {
+		padding:8px;
+		border: 1px solid grey;
+	}
+	</style>
+
+<title>MNIST Prediction</title>
+<h1>MNIST Prediction</h1>
+<h2>Upload multiple images of Handwritten number</h2>
+<p>
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+		  <li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	  {% endif %}
+	{% endwith %}
+</p>
+<form method="post" action="/" enctype="multipart/form-data">
+    <dl>
+		<p>
+			<input type="file" name="files[]" multiple="true" autocomplete="off" required>
+		</p>
+    </dl>
     <p>
-        {% with messages = get_flashed_messages() %}
-          {% if messages %}
-            <ul>
-            {% for message in messages %}
-              <li>{{ message }}</li>
-            {% endfor %}
-            </ul>
-          {% endif %}
-        {% endwith %}
-    </p>
-    <form method="post" action="/" enctype="multipart/form-data">
-        <dl>
-            <p>
-                <input type="file" name="file" class="form-control" autocomplete="off" required>
-            </p>
-        </dl>
-        <p>
-            <input type="submit" value="Submit" class="btn btn-info">
-        </p>
-    </form>
+		<input type="submit" value="Submit">
+	</p>
+</form>
 
-    {% if prediction != None %}    
-    <div>
-        <p> prediction = {{prediction}} </p>
-    </div>
-    
-    {% endif %}
-
-</div>
-</div>
-</body>
-</html>
+{% if prediction != None %}    
+	{% for url, pred in prediction.items() %}
+		<div>
+			<table>
+			<tr>
+				<th>Your Image</th>
+				<th>Predicted number</th>
+			</tr>
+			<tr>
+				<th><img src={{url}} alt="image" height="200" width="200"></th>
+				<th><span >{{pred}}</span></th>
+			</tr>
+		   </table>
+		</div>
+	{%endfor%}
+{% endif %}

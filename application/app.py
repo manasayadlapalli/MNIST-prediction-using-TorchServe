@@ -1,49 +1,57 @@
-from flask import Flask, flash, request, redirect, url_for, render_template
-import urllib.request
 import os
+from flask import Flask, flash, request, redirect, render_template
 from werkzeug.utils import secure_filename
- 
-app = Flask(__name__)
- 
-UPLOAD_FOLDER = 'static/uploads/'
- 
+
+app=Flask(__name__)
+
 app.secret_key = "secret key"
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
- 
-ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
- 
+
+# Get current path
+path = os.getcwd()
+# file Upload
+UPLOAD_FOLDER = os.path.join(path, 'uploads')
+
+# Make directory if uploads is not exists
+if not os.path.isdir(UPLOAD_FOLDER):
+    os.mkdir(UPLOAD_FOLDER)
+
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+# Allowed extension you can set your own
+ALLOWED_EXTENSIONS = set(['txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'])
+
+
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
-     
- 
-@app.route('/')
-def home():
-    return render_template('index.html', prediction = None)
- 
-@app.route('/', methods=['POST'])
-def upload_image():
-    if 'file' not in request.files:
-        flash('No file part')
-        return redirect(request.url)
-    file = request.files['file']
-    if file.filename == '':
-        flash('No image selected for uploading')
-        return redirect(request.url)
-    if file and allowed_file(file.filename):
-        filename = secure_filename(file.filename)
-        pred = predict(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-        print ("Prediction = ", pred)
-        return render_template('index.html', prediction = pred)
 
-    else:
-        flash('Allowed image types are - png, jpg, jpeg, gif')
-        return redirect(request.url)
- 
-@app.route('/display/<filename>')
-def display_image(filename):
-    #print('display_image filename: ' + filename)
-    return redirect(url_for('static', filename='uploads/' + filename), code=301)
+
+@app.route('/')
+def upload_form():
+    return render_template('index.html', prediction = None)
+
+
+@app.route('/', methods=['POST'])
+def upload_file():
+    if request.method == 'POST':
+
+        if 'files[]' not in request.files:
+            flash('No file part')
+            return redirect(request.url)
+
+        files = request.files.getlist('files[]')
+
+        prediction_data = dict()
+        for file in files:
+            if file and allowed_file(file.filename):
+                filename = secure_filename(file.filename)
+                filePath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+                file.save(filePath)
+                pred = predict(filePath)
+                prediction_data["static/uploads/" + filename] = predict(filePath) 
+        
+        
+        return render_template('index.html', prediction = prediction_data)
 
 
 def predict(image_path):
@@ -51,6 +59,5 @@ def predict(image_path):
     result =  os.popen(base_cmd).read()
     return result
 
-
 if __name__ == "__main__":
-    app.run()
+    app.run(host='127.0.0.1',port=5000,debug=False,threaded=True)

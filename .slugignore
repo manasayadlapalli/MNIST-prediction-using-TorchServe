@@ -1,7 +1,0 @@
-env
-logs
-*.psd
-*.pdf
-/test
-/spec
-Procfile
